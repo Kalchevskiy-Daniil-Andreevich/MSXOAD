@@ -1,0 +1,10 @@
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\bin\Debug\Lab10.dacpac
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\bin\Debug\Lab10.dll
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\bin\Debug\Lab10.pdb
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\obj\Debug\Lab10.sqlproj.AssemblyReference.cache
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\obj\Debug\Lab10.dll
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\obj\Debug\Lab10.pdb
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\obj\Debug\Model.xml
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\obj\Debug\refactor.xml
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\obj\Debug\postdeploy.sql
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\Lab10\obj\Debug\predeploy.sql

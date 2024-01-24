@@ -1,0 +1,6 @@
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\SLRLibrary\bin\Debug\SLRLibrary.dll
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\SLRLibrary\bin\Debug\SLRLibrary.pdb
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\SLRLibrary\obj\Debug\SLRLibrary.csproj.AssemblyReference.cache
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\SLRLibrary\obj\Debug\SLRLibrary.csproj.CoreCompileInputs.cache
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\SLRLibrary\obj\Debug\SLRLibrary.dll
+D:\МСХОАД\Лабораторная работа №10\SLRLibrary\SLRLibrary\obj\Debug\SLRLibrary.pdb
